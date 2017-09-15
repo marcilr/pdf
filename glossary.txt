@@ -1,0 +1,27 @@
+glossary.txt
+Created Tue Nov 27 09:11:39 AKST 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for pdf
+
+
+PDF - The full name is Portable Document Format, which is developed by Adobe
+  Systems and support by various operation system and computer hardware.  PDF
+  file includes font, image and embeds all kinds of elements at the same time.
+  PDF file is based on PostScript langauge - imaging model.  No matter which
+  kinds of printer do you use, accurate color and exact printer effect will be
+  assured, that is to say, PDF will faithfully reproduce every character, color
+  and image of the original file.
+  http://www.digitaltrends.com/mobile/how-to-convert-kindle-to-pdf/
+
+PPI - Pixels per inch (PPI) or pixel density is a measurement of the resolution of devices in
+  various contexts: typically computer displays, image scanners, and digital camera image sensors.
+  ...
+  It has become commonplace to refer to PPI as DPI, which is incorrect because PPI always refers
+  to input resolution.  Good quality photographs usually require 300 pixels per inch, at 100% size,
+  when printed onto coated paper stock, using a printing screen of 150 lines per inch (lpi).  This
+  delivers a quality factor of 2, which delivers optimum quality.  The lowest acceptable quality
+  factor is considered to be 1.5, which equates to printing a 175ppi image using a 150 lpi screen
+  onto coated paper. 
+  http://en.wikipedia.org/wiki/Pixel_density
