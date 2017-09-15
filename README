@@ -33,6 +33,9 @@ docs/
 extract-page-to-image.txt
   Extract page to image
 
+glossary.txt
+  Glossary for pdf
+
 join.txt
   To join multiple pdf pages use pdfjam's pdfjoin command:
   $ pdfjoin foo1.pdf foo2.pdf --outfile bar.pdf
