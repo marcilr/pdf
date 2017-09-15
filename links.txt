@@ -38,6 +38,10 @@ http://unix.stackexchange.com/questions/20026/convert-images-to-pdf-how-to-make-
 How do I convert a PRN file to PDF?
 http://superuser.com/questions/31128/how-do-i-convert-a-prn-file-to-pdf
 
+HOW TO CONVERT A KINDLE EBOOK TO PDF
+By Brandon Widder — Posted on October 15, 2016 6:00 am
+https://www.digitaltrends.com/mobile/how-to-convert-kindle-to-pdf/
+
 How to Remove a Password from a PDF File in Linux
 http://www.howtogeek.com/197195/how-to-remove-a-password-from-a-pdf-file-in-linux/
 
