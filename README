@@ -1,0 +1,85 @@
+README
+Created Sun Mar 25 13:43:14 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Portable Document Format manipulation.
+
+
+Filelist
+========
+attachements.txt
+  Adding attachments to a PDF
+  A look at pdftk
+  Ubuntu Musings
+  Thoughts, opinions, and experiences of an Ubuntu user
+  http://scottnesbitt.net/ubuntublog/?p=269
+
+combine.txt
+  Combining PDF Files
+  http://scottnesbitt.net/ubuntublog/?p=269
+
+commands.txt
+  pdf related commands
+
+decrypt.txt
+  HowTo: Linux Remove a PDF File Password Using Command Line Options
+  by nixCraft on January 13, 2010, 29 comments, last updated at January 21, 2010
+  http://www.cyberciti.biz/faq/removing-password-from-pdf-on-linux/
+
+extract-page-to-image.txt
+  Extract page to image
+
+join.txt
+  To join multiple pdf pages use pdfjam's pdfjoin command:
+  $ pdfjoin foo1.pdf foo2.pdf --outfile bar.pdf
+
+links.txt
+  Portable Document Format manipulation related links.
+
+metadata-password.txt
+  Adding metadata and passwords to a PDF
+  A look at pdftk
+  Ubuntu Musings
+  Thoughts, opinions, and experiences of an Ubuntu user
+  http://scottnesbitt.net/ubuntublog/?p=269
+
+packages.txt
+  Debain squeeze 6.0.4 amd64 Portable Document Format manipulation packages.
+
+pdf-to-images.txt
+  Use of ImageMagick's convert to convert pdf to images and back.
+
+pdftotext
+  pdftotext (PDF to text converter)
+  pdftotext is an open source command-line utility for converting PDF files
+  to plain text files -i.e. extracting text data from PDF-encapsulated files.
+  It is freely available and included by default with many Linux distributions,
+  and is also available for Windows as part of the Xpdf Windows port.  Such
+  text extraction is complicated as PDF files are internally built on page
+  drawing primitives, meaning the boundaries between words and paragraphs
+  often must be inferred based on their position on the page.
+
+printing.txt
+  Printing Portable Document Format files.
+
+remove-pages.txt
+  Remove pages from pdf using pdftk.
+
+reorder.txt
+  The pdftk - tool for manipulating PDF documents can be used to reorder PDF pages.
+
+rotate.txt
+  Page rotation with pdftk - tool for manipulating PDF documents.
+
+search.pdf
+  Searching PDFs
+
+split.txt
+  The pdftk - tool for manipulating PDF documents can be used to split PDFs.
+  Splitting out specific pages to a new document can be used to remove blank pages.
+
+split-images.txt
+  Using gimp to split images.  Used when refacting the scanned Ben Bridges 2012 watch catalog.
+  Each image had two pages that needed to be split down the center.  Also figured out how to 
+  use Image Magick convert's -page argument to set page size.
