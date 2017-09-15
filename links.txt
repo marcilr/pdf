@@ -1,0 +1,137 @@
+links.txt
+Created Sun Mar 25 14:02:48 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+PDF related links.
+
+
+Links
+=====
+11 of the Best Free Linux PDF Tools
+http://www.linuxlinks.com/article/20091021102658946/PDFTools.html
+
+A look at pdftk
+Ubuntu Musings
+Thoughts, opinions, and experiences of an Ubuntu user
+http://scottnesbitt.net/ubuntublog/?p=269
+
+calibre is a powerful and easy to use e-book manager.
+Users say it’s outstanding and a must-have.  It’ll allow
+you to do nearly everything and it takes things a step
+beyond normal e-book software. It’s also completely free
+and open source and great for both casual users and
+computer experts.
+https://calibre-ebook.com/about
+
+convert(1)
+convert - converts an input file using one image format to
+an output file with a differing image format.
+NOTE: This is *not* /usr/share/man/man1/convert.1.gz
+Does have some interesting info.
+http://stuff.mit.edu/afs/athena/contrib/graphics/man/cat1/convert.1
+
+convert images to pdf: How to make PDF Pages same size
+Where 1240x1753 are exactly DIN A4 when 150 DPI is chosen.
+http://unix.stackexchange.com/questions/20026/convert-images-to-pdf-how-to-make-pdf-pages-same-size
+
+How do I convert a PRN file to PDF?
+http://superuser.com/questions/31128/how-do-i-convert-a-prn-file-to-pdf
+
+How to Remove a Password from a PDF File in Linux
+http://www.howtogeek.com/197195/how-to-remove-a-password-from-a-pdf-file-in-linux/
+
+ISO 216 specifies international standard (ISO) paper sizes used in most
+countries in the world today, with the United States and Canada the main
+exceptions.  The standard defines the "A" and "B" series of paper sizes,
+including A4, the most commonly available size.  Two supplementary standards,
+ISO 217 and ISO 269, define related paper sizes; the ISO 269 "C" series is
+commonly listed alongside the A and B sizes.
+A4 210mm x 297mm
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/ISO_216#A.2C_B.2C_C_comparison
+
+Joining two pdfs with slightly different page size with pdfjoin
+under Linux or Mac
+pdfjoin --paper a4paper --rotateoversize false
+  does the trick for me. rotateoversize is the important option
+pdfjam --paper a4paper file1.pdf file2.pdf
+  did the trick for me using one letter-sized document and one
+  slightly-not-A4-document, they're both joined as A4 as expected.
+http://superuser.com/questions/352795/joining-two-pdfs-with-slightly-different-page-size-with-pdfjoin-under-linux-or-m
+
+Linux PDF editor for manipulating PDF documents
+by nixCraft on December 18, 2007, 66 comments, Last updated December 19, 2007
+http://www.cyberciti.biz/tips/open-source-linux-pdf-writer.html
+
+Making PDF's
+Details on convert, mogrify, and pdftk
+http://en.flossmanuals.net/e-book-enlightenment/making-pdfs/
+
+Doing OCR Using Command Line Tools in Linux
+2013/07/6
+http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/
+
+Manipulating PDFs from the command line - joining, merging, rotating [Update]
+References to pdfjam and pdftk.
+http://www.hermann-uwe.de/blog/manipulating-pdfs-from-the-command-line-joining-merging-rotating
+
+Manipulating PDFs with the PDF Toolkit (pdftk)
+http://www.linux.com/learn/tutorials/442414-manipulating-pdfs-with-the-pdf-toolkit
+
+Merging PDF files with joinPDF
+Ubuntu Musings
+Thoughts, opinions, and experiences of an Ubuntu user
+http://scottnesbitt.net/ubuntublog/?p=239
+
+PDF Manipulations And Conversions From Linux Command Prompt - July 14th, 2010
+Home > HOW-TOS	> PDF Manipulations And Conversions From Linux Command Prompt 
+http://segfault.in/2010/07/pdf-manipulations-and-conversions-from-linux-command-prompt/
+
+PDF Split and Merge
+A split and merge tool for PDF documents
+http://sourceforge.net/projects/pdfsam/?source=typ_t4_highlighted
+
+Pdf Split and Merge with Bookmark Import
+PDF merging with bookmarks and pagination
+http://sourceforge.net/projects/pdfmerge/
+
+PDF Viewers / Readers / Editors / Generators
+Wow, great list of debian utilities for pdf manipulation.
+http://wiki.debian.org/PDF
+
+PDFCreator
+Converts every printable document to PDF and many other formats
+http://sourceforge.net/projects/pdfcreator/
+
+PDFedit
+Free editor for PDF documents.  Complete editing of PDF documents is possible
+with PDFedit.  You can change raw pdf objects (for advanced users) or use many
+gui functions.  Functionality can be easily extended using a scripting
+language (ECMAScript).
+http://sourceforge.net/projects/pdfedit/
+
+PDFescape - Free PDF Editor & Free PDF Form Filler
+http://www.pdfescape.com/
+
+pdfimages
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Pdfimages
+
+PDFjam is a small collection of shell scripts that provide a simple interface to some of the
+functionality of the pdfpages package for pdfLaTeX.  Facilities include n-up imposition, page
+rotation, reflection and trimming, selection of pages, and many more.  PDFjam depends on a working
+installation of (pdf)LaTeX, complete with the pdfpages package.  For Mac OS X, some example
+applications (droplets) are provided for drag-and-drop access.
+http://freecode.com/projects/pdfjam
+
+pdftk the pdf toolkit
+http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/
+
+PostScript and PDF tools under Gnu/Linux
+Very nice list of tools.
+http://www.physics.usyd.edu.au/~rennie/ps_notes.html
+
+Working with PDFs Using Command Line Tools in Linux
+2013/08/24
+http://williamjturkel.net/2013/08/24/working-with-pdfs-using-command-line-tools-in-linux/
