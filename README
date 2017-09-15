@@ -27,6 +27,9 @@ decrypt.txt
   by nixCraft on January 13, 2010, 29 comments, last updated at January 21, 2010
   http://www.cyberciti.biz/faq/removing-password-from-pdf-on-linux/
 
+docs/
+  Documentation
+
 extract-page-to-image.txt
   Extract page to image
 
@@ -83,3 +86,6 @@ split-images.txt
   Using gimp to split images.  Used when refacting the scanned Ben Bridges 2012 watch catalog.
   Each image had two pages that needed to be split down the center.  Also figured out how to 
   use Image Magick convert's -page argument to set page size.
+
+syntax/
+  Syntax
