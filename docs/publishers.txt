@@ -1,0 +1,17 @@
+publishers.txt
+Created Fri Apr 20 09:15:08 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Book publishers
+
+
+O'Reilly
+http://www.oreilly.com/
+
+Mapt, Powered by Packt
+Unable to create reset account here - April 20, 2018
+https://www.packtpub.com/
+
+Pragmatic Bookshelf
+http://pragprog.com/
