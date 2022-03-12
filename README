@@ -30,6 +30,10 @@ decrypt.txt
 docs/
   Documentation
 
+editors/
+  PDF editors
+  git@github.com:marcilr/pdf-editors.git
+
 extract-page-to-image.txt
   Extract page to image
 
