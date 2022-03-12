@@ -32,3 +32,4 @@
 # Source                                                  Target
 # ------------------------------------------------------------------------------
 ssh://git@github.com/marcilr/create-searchable-pdfs.git   searchable
+ssh://git@github.com/marcilr/marcilr/pdf-editors.git      editors
