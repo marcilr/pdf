@@ -46,6 +46,9 @@ join.txt
 links.txt
   Portable Document Format manipulation related links.
 
+manifest
+  Manifest file for use by resync script
+
 metadata-password.txt
   Adding metadata and passwords to a PDF
   A look at pdftk
