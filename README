@@ -8,6 +8,9 @@ Portable Document Format manipulation.
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
 attachements.txt
   Adding attachments to a PDF
   A look at pdftk
