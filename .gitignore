@@ -1,0 +1,13 @@
+#.gitignore
+# Created Sat 19 Mar 2022 01:08:05 PM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+editors/
+searchable/
+syntax/
+viewers/
+
+
