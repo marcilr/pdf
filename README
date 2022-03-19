@@ -44,7 +44,7 @@ glossary.txt
   Glossary for pdf
 
 index.html
-  pdf repo base page
+  Portable Document Format file details
 
 join.txt
   To join multiple pdf pages use pdfjam's pdfjoin command:
@@ -104,7 +104,7 @@ split-images.txt
   use Image Magick convert's -page argument to set page size.
 
 syntax/
-  Syntax
+  pdf related syntax
 
 TODO
   TODO items
